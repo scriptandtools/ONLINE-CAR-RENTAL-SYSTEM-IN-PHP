@@ -50,7 +50,10 @@ Configures alerts for low vehicle availability, upcoming maintenance, and paymen
 Manages system settings such as business hours, rental policies, and pricing rules.
 Configures payment gateway settings and other integrations.
 
+
 <img width="960" alt="Screenshot 2024-07-19 150637" src="https://github.com/user-attachments/assets/83d1eda1-81e4-4045-b28d-1e3c3b35d239">
+
+
 
 ## **Installation**
 
