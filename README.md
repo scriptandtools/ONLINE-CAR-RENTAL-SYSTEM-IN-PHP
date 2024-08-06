@@ -9,7 +9,7 @@ You can select from a variety of options, including different models and rental 
 
  ## **Features**
 
-## Wide Range of Vehicles:
+#### Wide Range of Vehicles:
 Choose from a variety of cars, including sedans, SUVs, luxury cars, and more.
 ## Easy Booking Process:
 Enjoy a hassle-free booking experience with our intuitive interface.
