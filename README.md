@@ -11,42 +11,42 @@ You can select from a variety of options, including different models and rental 
 
 #### Wide Range of Vehicles:
 Choose from a variety of cars, including sedans, SUVs, luxury cars, and more.
-## Easy Booking Process:
+#### Easy Booking Process:
 Enjoy a hassle-free booking experience with our intuitive interface.
-## Real-Time Availability:
+#### Real-Time Availability:
 Check real-time availability and pricing for all vehicles.
-## Secure Payments:
+#### Secure Payments:
 Make secure online payments with multiple payment options.
-## Flexible Rental Periods: 
+#### Flexible Rental Periods: 
 Rent a car for a few hours, a day, a week, or even longer.
-## Customer Support:
+#### Customer Support:
 Access 24/7 customer support to assist you with any queries or issues.
 
 ## **Admin panel**
 
 An admin panel for an Online Car Rental System in PHP is a comprehensive backend interface designed to manage and oversee all aspects of the car rental service. This panel allows administrators to efficiently handle the operational, customer, and vehicle management needs of the system. Key features of this admin panel include:
 
-## 1-Dashboard Overview:
+#### 1-Dashboard Overview:
 Provides a summary of key metrics such as total bookings, available cars, revenue, and customer statistics.
 Displays recent activities and notifications.
-## 2-User Management:
+#### 2-User Management:
 Allows administrators to view, edit, and delete user accounts.
 Facilitates role-based access control, enabling different levels of access for different users (e.g., admins, employees).
-## 3-Vehicle Management:
+#### 3-Vehicle Management:
 Enables adding, updating, and removing vehicles from the system.
 Allows setting vehicle details such as model, brand, price per day, availability status, and maintenance schedule.
-## 4-Booking Management:
+#### 4-Booking Management:
 Provides a list of all bookings with details like customer name, vehicle booked, rental period, and total cost.
 Allows approval, cancellation, and modification of bookings.
 Facilitates processing of refunds and managing booking disputes.
-## 5-Payment Management:
+#### 5-Payment Management:
 Monitors all transactions, including payments received and refunds issued.
 Supports integration with various payment gateways (e.g., PayPal, Stripe).
 Generates financial reports and provides insights into revenue streams.
-## 6-Reports & Analytics:
+#### 6-Reports & Analytics:
 Generates detailed reports on bookings, vehicle usage, customer demographics, and financial performance.
 Offers analytics tools to track trends and make data-driven decisions.
-## 7-Notifications & Alerts:
+#### 7-Notifications & Alerts:
 Sends email and SMS notifications for booking confirmations, cancellations, and reminders.
 Configures alerts for low vehicle availability, upcoming maintenance, and payment issues.
 ## 8-Settings & Configurations:
