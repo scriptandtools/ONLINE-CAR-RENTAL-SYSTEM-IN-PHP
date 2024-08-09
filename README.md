@@ -7,6 +7,28 @@ You can select from a variety of options, including different models and rental 
 
 <img width="949" alt="Screenshot 2024-07-03 113907" src="https://github.com/user-attachments/assets/76e9a3f3-ae5c-4e59-ba81-7356f964260a">
 
+## Technologies:
+HTML: Page layout and design
+
+CSS: Design
+
+JS: Fontend
+
+PHP: Backend
+
+Bootstrap
+
+Java Script
+
+## Supported Operating Systems:
+You can run this project in the following operating systems:
+
+Windows
+
+MAC
+
+Linux
+
  ## **Features**
 
 #### Wide Range of Vehicles:
